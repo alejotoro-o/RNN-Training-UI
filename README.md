@@ -1,1 +1,1 @@
-# RNN-Training-UI
+# Software de Entrenamiento de Redes Neuronales Recurrentes
